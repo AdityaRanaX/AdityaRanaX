@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-🔭 I’m currently working on Chat Application<br>👯 I’m looking to collaborate on future ideas<br>🤝 I’m looking for help in finding new ideas<br>🌱 I’m currently learning full stack<br>💬 Ask me about anything<br>
+👯 I’m looking to collaborate on future ideas<br>🤝 I’m looking for help in finding new ideas<br>🌱 I’m currently learning full stack<br>💬 Ask me about anything<br>
 
 
 ## 🌐 Socials:
