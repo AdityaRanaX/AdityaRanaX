@@ -11,9 +11,38 @@
 
 ## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,cpp,css,java,react,reactnative,firebase,mongodb,docker,postman,jwt,npm,canva&perline=7" />
-</p>
+## Technical Skills
+
+* **Programming Languages**
+
+  * Java, JavaScript, C++
+
+* **Backend Development**
+
+  * Node.js, Express.js, RESTful APIs, Middleware
+
+* **Authentication & Security**
+
+  * JWT (JSON Web Tokens)
+
+* **Databases**
+
+  * MongoDB, Mongoose, MongoDB Compass, Firebase
+
+* **Frontend Development**
+
+  * React, React Native, Vite, React Router
+  * JavaScript, HTML5, CSS3
+
+* **DevOps & Tooling**
+
+  * Docker, Docker Compose
+  * GitHub Actions (CI/CD), Git, GitHub
+  * Postman, Cloudinary, Nodemailer, npm
+
+* **Design Tools**
+
+  * Canva
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=AdityaRanaX&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
